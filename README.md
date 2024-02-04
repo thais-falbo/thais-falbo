@@ -4,7 +4,7 @@
 
 ### Hello! 👋🏻
 
-I'm **Thaís**, a Software Developer specialized with 4 years of experience, specialized in translating ideas to code.  I have produced diverse websites and mobile apps compatible with multiple screens, meeting quality and performance requirements. My professional journey includes extensive collaboration with an international clientele, necessitating fluent communication in English as part of my daily routine.
+I'm **Thaís**, a specialized Software Developer with 4 years of experience, since then I've been translating people's ideas to code.  I have produced diverse websites and mobile apps compatible with multiple screens, meeting quality and performance requirements. My professional journey includes extensive collaboration with an international clientele, necessitating fluent communication in English as part of my daily routine.
 
 ### What I know 👩🏻‍💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
