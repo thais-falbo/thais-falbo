@@ -1,8 +1,12 @@
-### Hello!
+<p align="center">
+  <img src="LinkedIn cover - 1.png" width="100%" title="hover text" alt="cover">
+</p>
+
+### Hello! 👋🏻
 
 I'm **Thaís**, a Software Developer specialized with 4 years of experience, specialized in translating ideas to code.  I have produced diverse websites and mobile apps compatible with multiple screens, meeting quality and performance requirements. My professional journey includes extensive collaboration with an international clientele, necessitating fluent communication in English as part of my daily routine.
 
-### What I know
+### What I know 👩🏻‍💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -21,7 +25,7 @@ I'm **Thaís**, a Software Developer specialized with 4 years of experience, spe
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-### Currently I'm learning
+### Currently I'm learning 📚
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
