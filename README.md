@@ -31,3 +31,6 @@ I'm **Thaís**, a specialized Software Developer with 4 years of experience, sin
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=thais-falbo&show_icons=true&hide_rank=true&hide_title=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thais-falbo&layout=compact) -->
