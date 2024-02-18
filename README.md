@@ -6,7 +6,7 @@
 
 I'm **Thaís**, a specialized Software Developer with 4 years of experience, since then I've been translating people's ideas to code.  I have produced diverse websites and mobile apps compatible with multiple screens, meeting quality and performance requirements. My professional journey includes extensive collaboration with an international clientele, necessitating fluent communication in English as part of my daily routine.
 
-### What I know 👩🏻‍💻
+### Skills 👩🏻‍💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -25,12 +25,6 @@ I'm **Thaís**, a specialized Software Developer with 4 years of experience, sin
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-### Currently I'm learning 📚
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=thais-falbo&show_icons=true&hide_rank=true&hide_title=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thais-falbo&layout=compact) -->
