@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="LinkedIn cover - 1.png" width="100%" title="hover text" alt="cover">
-</p>
-
 ### Hello! 👋🏻
 
 I'm **Thaís**, a Front-End Developer with 4 years of experience, since then I've been translating people’s ideas to code. I have produced diverse websites and mobile apps compatible with multiple screens, meeting quality and performance requirements. My professional journey includes extensive collaboration with an international clientele, necessitating fluent communication in English as part of my daily routine.
