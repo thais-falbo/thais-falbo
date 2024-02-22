@@ -1,8 +1,11 @@
-### Hello! 👋🏻
+# Hello! 👋🏻
 
-I'm **Thaís**, a Front-End Developer with 4 years of experience, since then I've been translating people’s ideas to code. I have produced diverse websites and mobile apps compatible with multiple screens, meeting quality and performance requirements. My professional journey includes extensive collaboration with an international clientele, necessitating fluent communication in English as part of my daily routine.
+I'm **Thaís**, a talented Front-End Developer with 4 years of experience and a strong passion for creating visually appealing and user-friendly
+websites. Proficient in developing diverse websites and mobile apps compatible with multiple screens, meeting quality and
+performance requirements. My professional journey includes extensive collaboration with an international clientele, necessitating
+fluent communication in English as part of my daily routine.
 
-### Skills 👩🏻‍💻
+# Skills 👩🏻‍💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
