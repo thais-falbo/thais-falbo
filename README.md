@@ -1,6 +1,6 @@
 <center>
 
-![Japanese animation of hands typing in a keyboard](keyboard.gif)
+<img src="keyboard.gif" alt="Japanese animation of hands typing in a keyboard"/>
 
 </center>
 
