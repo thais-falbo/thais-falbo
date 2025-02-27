@@ -1,8 +1,6 @@
-<center>
-
-<img src="keyboard.gif" alt="Japanese animation of hands typing in a keyboard"/>
-
-</center>
+<p align="center">
+    <img src="keyboard.gif" alt="Japanese animation of hands typing in a keyboard"/>
+</p>
 
 # Welcome to my profile!
 
