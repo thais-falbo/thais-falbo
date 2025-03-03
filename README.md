@@ -9,7 +9,6 @@ I'm a Graphic Designer who moved to tech in 2018, I'm specialized in Front-End d
 - 💼 Currently looking for work
 - 🔭 Learning back-end development with Node and NestJS
 - 📫 Reach me on [thaisfalbo@outlook.com](mailto:thaisfalbo@outlook.com)
-- 💬 Ask me about JS, design or anything related
 - ⚡Fun fact: I have 6 cats
 
 ## Skills
