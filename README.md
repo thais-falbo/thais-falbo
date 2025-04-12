@@ -1,8 +1,6 @@
-# Welcome to my profile!
-
-- 🔭 Learning back-end development with Ruby on Rails
-- 📫 Reach me on [thaisfalbo@outlook.com](mailto:thaisfalbo@outlook.com)
-- ⚡Fun fact: I have 6 cats
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnkwZDdsaHJib3dvcnI0YXM1N3g3bjJxZGJocHpicXgwMm9zc2NqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" alt="Cat typing on keyboard"/>
+</p>
 
 ## Spells and Cantrips
 
