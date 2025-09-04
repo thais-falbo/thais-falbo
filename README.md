@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTI3MXR0d3FyaHJkcjVyMXFxaWJudWl6Y2wwMTRqZzJ4bTNpd2QxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rAm0u2k17rM3e/giphy.gif" alt="Animated GIF of the Pokémon Clefairy sitting at a complex control panel, pressing buttons with a confused expression. Large caption reads: 'I have no idea what I’m doing.'"/>
-</p>
-
 ## Skills
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
